@@ -1,7 +1,6 @@
 # student-projects
-C++ Practice Projects  
 
-This repository contains beginner-level C++ programs focusing on:
+This repository contains c and beginner-level C++ programs focusing on:
 - Functions
 - - Loops
 - Basic algorithms
