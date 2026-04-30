@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Reversing an Array/Reversing an Array.vcxproj" Id="6030ea81-5db1-4245-828f-9269763af19c" />
+</Solution>

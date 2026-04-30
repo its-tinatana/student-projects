@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1768608268 source:c:\users\itsta\documents\basics of programing\code blocks\8.1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

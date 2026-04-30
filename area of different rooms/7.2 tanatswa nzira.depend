@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1767083833 source:c:\users\itsta\documents\basics of programing\code blocks\7.2 tanatswa nzira\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

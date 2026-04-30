@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="fraction/fraction.vcxproj" Id="6883f47c-af02-48f2-8ce1-e8fffa24c64e" />
+</Solution>
