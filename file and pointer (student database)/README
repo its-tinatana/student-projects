@@ -1,0 +1,13 @@
+Student Database
+This C program stores student details in data.txt. Use the menu to save student records, display saved records, remove the last record, or exit.
+Each record contains:
+- University name
+- Student’s full name
+- Street and city
+- Year of study
+
+Important notes
+- Saving opens data.txt in write mode, so it replaces any records already in the file.
+- The remove option rewrites the file without its last student record.
+- The file format uses commas between fields, so names and addresses should not contain commas.
+- The remove function stores records in an array limited to 100 students.
