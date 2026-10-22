@@ -1,1 +1,16 @@
+Fraction Addition
 
+A small C++ program that adds two fractions, reduces the result to simplest terms, and prints the calculation.
+
+## How it works
+
+- `fraction` stores a numerator and denominator.
+- `add` adds two fractions using a common denominator.
+- `gcd` finds the greatest common divisor using Euclid's algorithm.
+- `reduce` divides the numerator and denominator by their greatest common divisor.
+
+The example in `main` adds `1/3` and `4/7`. It prints:
+
+```text
+1/3 + 4/7
+= 19/21
