@@ -1,0 +1,13 @@
+Tanatswa Nzira — Portfolio Website
+A personal portfolio website for web and graphic designer Tanatswa Nzira. It introduces the designer, showcases experience and projects, and links to social profiles and a CV.
+Website sections
+- About: Introduction, role, CV link, and social links
+- Experience: Content creation, freelance design, and other roles
+- Projects: Selected graphic design and website work
+- Contact: Contact section
+Files
+Keep the HTML file together with its supporting assets:
+- style.css — page styling
+- script.js — interactive behavior
+- tan1.png, pro1.jpg, pro2.jpeg, and pro3.png — profile and project images
+The page also loads Lexend and Oswald fonts from Google Fonts and icons from Font Awesome.
