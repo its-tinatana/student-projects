@@ -1,0 +1,7 @@
+Flat Paint Calculator
+This C program estimates how much paint is needed for the walls and ceilings in a flat. For each room, enter its name, dimensions, and the paint colours. The program calculates the wall and ceiling areas and estimates the paint volume.
+Calculation
+The program assumes 1 liter covers 5 square meters.
+- Wall area: 2 × length × height + 2 × width × height
+- Ceiling area: length × width
+- Paint needed: area ÷ 5
